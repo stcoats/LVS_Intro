@@ -1,1 +1,6 @@
 numpy==1.25.0
+pandas
+seaborn
+matplotlib
+scipy
+statsmodels
